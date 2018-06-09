@@ -10,6 +10,9 @@
 
 	<modules>
 		<module>edu-demo</module>
+		<!--<module>edu-user-api</module>-->
+		<module>edu-user-consumer</module>
+		<module>edu-user-provider</module>
 	</modules>
 
 
